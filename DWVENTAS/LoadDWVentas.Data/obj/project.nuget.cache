@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "ti/dw7Vl+Em3bbj++zLmmQu27B0tq4rCzoE5ODFd+el02bz+GK8TG+06ObdCelvapsyqxpkvkuL8hchfOB0Rfg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\use\\Source\\Repos\\LoadDWVentas\\LoadDWVentas.Data\\LoadDWVentas.Data.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.EntityFrameworkCore. No existe ningún paquete con este id. en los orígenes: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.EntityFrameworkCore.SqlServer. No existe ningún paquete con este id. en los orígenes: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
